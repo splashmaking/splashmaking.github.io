@@ -56,11 +56,23 @@ h1{
 }</style>
 
     <title>test dash hueydot dot github doteyeoh</title>
+      <script type="text/javascript">
+  (function() {
+    var blinks = document.getElementsByTagName('blink');
+    var visibility = 'hidden';
+    window.setInterval(function() {
+      for (var i = blinks.length - 1; i >= 0; i--) {
+        blinks[i].style.visibility = visibility;
+      }
+      visibility = (visibility === 'visible') ? 'hidden' : 'visible';
+    }, 250);
+  })();
+</script>
     </head>
  <div class="block">
     
     <div class="text">
-        <h1>hueydot</br>dot</br>github</br>dot</br>eyeoh</h1>
+        <h1>hueydot</br><blink>dot</blink></br>github</br><blink>dot</blink></br>eyeoh</h1>
     </div>
     
 </div>
