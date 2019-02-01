@@ -1,5 +1,6 @@
 # Froakie
 > Generation VI
+
 * Water
 
 |XY art | Dream art 1 | Dream art 2 | Dream art 3 |
