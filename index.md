@@ -1,1 +1,1 @@
-  [froakie test page](./pokedex/froakie), working on a Thing
+# recursively enumerable : γ → α
